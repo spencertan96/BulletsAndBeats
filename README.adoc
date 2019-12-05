@@ -4,18 +4,18 @@ ifdef::env-github[]
 image::images/MainMenu.png[width="600"]
 endif::[]
 
-The gameplay involves collecting "Beats" as a form of ammunition to defeat your enemies. "Beats" spawn according to the beat of the music played, and collecting them at the right time will give more benefits!
+Gameplay involves collecting "Beats" as a form of ammunition to defeat your enemies. "Beats" spawn according to the beat of the music played, and collecting them at the right time will give more benefits!
 
 Here are some clips of the gameplay!
 
 ifdef::env-github[]
 .Pulse ability
-video::videos/Pulse.mp4[options=autoplay,loop]
+image::videos/Pulse.gif[]
 endif::[]
 
 ifdef::env-github[]
 .Chaotic boss fight
-video::videos/ChaoticBossFight.mp4[]
+image::videos/ChaoticBossFight.gif[]
 endif::[]
 
 == Developers' Notes
