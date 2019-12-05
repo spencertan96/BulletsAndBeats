@@ -22,7 +22,7 @@ endif::[]
 
 Hello! This game was created for a game design module (NM3216) in National
 University of Singapore by Spencer Tan, Ng Hui Ren, Ng Jing Heng, Kelly Lim and
-Rahmani Nitiyudo. Hope you have fun! Do drop feedback on the GitHub page,
+Rahmani Nitiyudo. Hope you have fun! Do drop feedback on the GitHub page via *"Issues"*,
 constructive comments are appreciated!
 
 Feel free to share the game as long as no profits are being made from it!
