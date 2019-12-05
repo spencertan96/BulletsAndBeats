@@ -13,6 +13,8 @@ ifdef::env-github[]
 image::videos/Pulse.gif[]
 endif::[]
 
+
+
 ifdef::env-github[]
 .Chaotic boss fight
 image::videos/ChaoticBossFight.gif[]
