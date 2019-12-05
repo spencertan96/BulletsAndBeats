@@ -1,7 +1,7 @@
 = Bullets and Beats
 
 ifdef::env-github[]
-image::images/MainMenu.png[width="600"]
+image:images/MainMenu.png[width="600"]
 endif::[]
 
 Gameplay involves collecting "Beats" as a form of ammunition to defeat your enemies. "Beats" spawn according to the beat of the music played, and collecting them at the right time will give more benefits!
@@ -10,14 +10,12 @@ Here are some clips of the gameplay!
 
 ifdef::env-github[]
 .Pulse ability
-image::videos/Pulse.gif[]
+image:videos/Pulse.gif[]
 endif::[]
-
-
 
 ifdef::env-github[]
 .Chaotic boss fight
-image::videos/ChaoticBossFight.gif[]
+image:videos/ChaoticBossFight.gif[]
 endif::[]
 
 == Developers' Notes
